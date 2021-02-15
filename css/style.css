@@ -1,0 +1,27 @@
+/* jumbotron */
+.slider h3,
+.slider h5 {
+    text-shadow: 3px 5px 5px rgba(0, 0, 0, .5);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(70%);
+    opacity: .6 !important;
+}
+
+.parallax-container h2 {
+    text-shadow: 3px 4px 5px rgba(0, 0, 0, .5);
+}
+
+.parallax-container .row img {
+    width: 70%;
+    filter: drop-shadow(3px 5px 5px rgba(0, 0, 0, .6));
+}
+
+section {
+    padding: 10px 0;
+}
